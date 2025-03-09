@@ -36,12 +36,6 @@ AniLink is a platform that allows anime enthusiasts to connect, share their anim
 git clone https://github.com/yourusername/AniLink.git
 cd AniLink
 
-# Install dependencies (adjust based on your package manager)
-```
-
-### Running the Application
-```sh
-# Start the application (modify according to the technology used)
 ```
 
 ## Roadmap
